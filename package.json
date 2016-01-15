@@ -1,0 +1,15 @@
+{
+  "name": "explorecourses-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Chen <rogerthechen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "libxmljs": "0.17.0",
+    "xml2js": "0.4.15"
+  }
+}
