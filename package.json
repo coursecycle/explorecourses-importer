@@ -9,7 +9,7 @@
   "author": "Roger Chen <rogerthechen@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "libxmljs": "0.17.0",
-    "xml2js": "0.4.15"
+    "request": "2.67.0",
+    "xml-stream": "0.4.5"
   }
 }
